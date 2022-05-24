@@ -1,0 +1,1 @@
+printf("Calificaciones= %f, %f, %f\n",s,t,q);
