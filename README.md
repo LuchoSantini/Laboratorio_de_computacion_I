@@ -1,2 +1,2 @@
-# Laboratorio_de_computacion_I
- Practicas
+#UTN_TUP
+Practicas y archivos sobre la carrera.
